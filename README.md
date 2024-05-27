@@ -1,5 +1,5 @@
 # Object-Detection-on-custom-dataset
-This repository contains code and configurations for training a YOLOv8 object detector on a custom dataset. The project focuses on recognizing license plates using YOLOv8 and EasyOCR.
+This repository contains code and configurations for training a YOLOv8 object detector on a custom dataset. The project focuses on recognizing license plates using YOLOv8.
 
 ## Installation
 ### Clone the repository:
