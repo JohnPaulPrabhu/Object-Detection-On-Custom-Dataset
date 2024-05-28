@@ -1,6 +1,8 @@
 # Object-Detection-on-custom-dataset
 This repository contains code and configurations for training a YOLOv8 object detector on a custom dataset. The project focuses on recognizing license plates using YOLOv8.
 
+![results0](https://github.com/JohnPaulPrabhu/Object-Detection-On-Custom-Dataset/assets/26264448/111c25fd-bb49-4d20-8eda-0ac3c3219d12)
+
 ## Installation
 ### Clone the repository:
 
@@ -17,12 +19,12 @@ pip install -r requirements.txt
 ### Configuration
 Update the config.yaml file with the paths to your training and validation datasets. Ensure the dataset is in the correct format.
 
-Training
+### Training
 To train the YOLOv8 model on your custom dataset, run:
 ```
 python main.py
 ```
-## Inference
+### Inference
 To run inference on an image:
 ```
 from ultralytics import YOLO
